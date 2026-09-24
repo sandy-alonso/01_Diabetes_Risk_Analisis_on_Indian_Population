@@ -1,0 +1,18 @@
+# Claude Code
+.claude/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
